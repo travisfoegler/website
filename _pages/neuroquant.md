@@ -8,7 +8,7 @@ permalink: https://www.cortechslabs.com/neuroquant/
 published: true
 post_date: 2016-03-08 19:29:51
 ---
-[vc_row][vc_column][vc_empty_space height="20px"][vc_video link="https://youtu.be/oAAN7gTFXAo" el_width="70" align="center"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1520447573043{background-color: #1e73be !important;}"][vc_column][/vc_column][/vc_row][vc_row css=".vc_custom_1469935571776{margin-top: 5px !important;}"][vc_column][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1515017407951{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"]
+[vc_row][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1520447573043{background-color: #1e73be !important;}"][vc_column][vc_video link="https://youtu.be/oAAN7gTFXAo" el_width="70" align="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1469935571776{margin-top: 5px !important;}"][vc_column][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1515017407951{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"]
 <p style="text-align: center;"><span style="text-align: center; font-size: 50px; color: #ff0000;"> NeuroQuant. </span><span style="text-align: center; font-size: 30px; color: #ff0000;">Atrophy, Quantified.</span></p>
 [/vc_column_text][vc_empty_space height="20px"][vc_column_text]
 <p style="text-align: center;"><span style="text-align: center; font-size: 30px;">Fast, accurate &amp; proven automated brain image analysis.</span></p>
