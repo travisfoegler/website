@@ -1,0 +1,25 @@
+---
+ID: 6558
+post_title: >
+  The Role of Volumetric Neuroimaging in
+  the Evaluation of Temporal Lobe Epilepsy
+author: Julia Albright PhD
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.cortechslabs.com/evaluation-epilepsy/
+published: true
+post_date: 2016-02-12 16:11:00
+---
+<img style="width: 186px; float: right;" title="Asym_head-01.png" src="https://www.cortechslabs.com/wp-content/uploads/2017/02/Asym_head-01.png?t=1486616743416&amp;width=186&amp;name=Asym_head-01.png" alt="Asym_head-01.png" width="186" />
+
+Neuroimaging is one of several important tools for physicians to help provide an objective assessment and treatment plan for patients with epilepsy. Utilizing MRI scans and analyzing the resulted MRI images using sophisticated software tools has become a significant element in the evaluation of patients with epilepsy and can be especially helpful in assessing the possibility of surgery. MRI scans together with software analysis tools, such as  <a href="http://www.cortechslabs.com/neuroquant"><span style="color: #c8042c;">NeuroQuant®</span></a>,  allow for brain structures to be segmented and measured, thereby providing anatomic and structural information about the brain in a non-invasive fashion.
+
+<span style="color: #666666;"><a style="color: #666666;" href="http://www.cortechslabs.com/neuroquant">NeuroQuant</a></span> is a leading medical device software that automatically and accurately segments and calculates brain structure volumes from the 3D MRI images. The use of volumetric measurements of temporal lobe structures on MRI can help physicians facilitate the recognition of subtle hippocampal atrophy, not identified by visual exam. Since the arrival of MRI of the brain, hippocampal atrophy has been recognized as the most frequently seen neuroradiologic abnormality in temporal lobe epilepsy. Using NeuroQuant for volumetric imaging of patients with temporal lobe epilepsy (TLE) provides physicians with an objective and precise measurement in their assessment of hippocampal atrophy.
+
+Neuroimaging studies suggest that TLE is associated with pathologic changes in hippocampal physiology and morphology. A history of febrile seizures is associated with hippocampal volume reductions in patients with TLE. Asymmetric hippocampal atrophy, beyond what is considered normal hippocampal asymmetry, may be a sign that the atrophied hippocampus could be the source of the epileptic seizures.
+
+While sometimes moderate to severe hippocampal atrophy can be detected easily by visual examination of the MRI scan by a radiologist or neuroradiologist, volumetric analysis of the MRI scan provides objective quantitative measurements that are consistent and do not rely on subjective assessment<span style="color: #c8042c;"><span style="color: #666666;">. </span></span> This can help highlight cases where there is slight hippocampal or bilateral volume loss. A 2015 study, <span style="color: #c8042c;"><a style="color: #c8042c;" href="http://www.cortechslabs.com/wp-content/uploads/2015/07/Mesial-Temporal-Sclerosis.pdf"><em>Mesial Temporal Sclerosis: Accuracy of NeuroQuant versus Neuroradiologist</em></a></span><em>,</em> found that NeuroQuant performed slightly better than expert Johns Hopkins Hospital trained neuroradiologists, with NeuroQuant having a hippocampal asymmetry classification accuracy of 79.4% versus the neuroradiologists’ accuracy of 72.6%.
+
+For physicians evaluating TLE, the NeuroQuant <span style="color: #c8042c;"><a style="color: #c8042c;" href="https://www.cortechslabs.com/neuroquant/asym/">Hippocampal Volume Asymmetry</a></span> report provides volume measurements of the left and right hippocampi, the asymmetry between the left and right hippocampi <span style="text-decoration: underline;">and</span> it also indicates the patient’s brain structure volume measurements as compared to a healthy population via a <span style="color: #c8042c;"><a style="color: #c8042c;" href="https://www.cortechslabs.com/whitepapers/">normative database</a></span>. This allows NeuroQuant to deliver a precise indication of where that individual’s brain structure volume and the asymmetry lie within an age- and gender-based reference chart. The NeuroQuant Hippocampal Volume Asymmetry report delivers precise and critical information to aid physicians in their assessment of temporal lobe epilepsy.
+<h3 style="text-align: center;"><span style="color: #444444; text-transform: uppercase;"><span style="color: #993366;"><img style="display: block; margin-left: auto; margin-right: auto;" title="ep_day_2016.jpg" src="http://cortechsnews.cortechslabs.com/hubfs/ep_day_2016.jpg?t=1486616743416" alt="ep_day_2016.jpg" /></span><a href="http://epilepsy.org/"><span style="color: #993366;">International Epilepsy Day</span> <span style="color: #993366;">promotes awareness of epilepsy right around the world. Join the Celebration!</span></a></span></h3>
