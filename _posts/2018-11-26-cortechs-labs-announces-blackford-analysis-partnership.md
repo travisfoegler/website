@@ -29,7 +29,6 @@ The partnership provides CorTechs Labs with an extended network of healthcare an
 <strong>About CorTechs Labs</strong>
 <em>CorTechs Labs develops and markets breakthrough medical device software solutions capable of automatically segmenting and quantifying brain structures, making quantitative analysis of the human brain a routine part of clinical practice. CorTechs Labs’ cutting-edge brain imaging analysis provides neurologists, radiologists, and clinical researchers worldwide with a convenient and cost-effective means to quantify subcortical structures to help assess a variety of neurological conditions, such as Alzheimer's disease, epilepsy, multiple sclerosis, brain trauma, and brain development abnormalities. Please visit <u><a href="http://www.cortechslabs.com/">www.cortechslabs.com</a></u> for further information.</em>
 <p align="center"><em>###</em></p>
-<p style="text-align: left;" align="center"></p>
 <p style="text-align: left;" align="center">Contact: Travis Foegler
 Phone: <strong>+1 (619) 450-9094</strong>
 Email: Tfoegler@cortechslabs.com</p>
