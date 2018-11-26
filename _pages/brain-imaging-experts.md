@@ -14,7 +14,7 @@ post_date: 2015-03-20 22:02:20
 <h1 style="text-align: center;">Brain Image Analysis Solutions</h1>
 [/vc_column_text][vc_custom_heading text="Improving the quality of patient care by enabling superior medical imaging insight." font_container="tag:p|font_size:18|text_align:center|line_height:1.5" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:300%20light%20regular%3A300%3Anormal"][vc_row_inner css=".vc_custom_1458341981089{margin-top: 10px !important;}"][vc_column_inner width="1/3"][vc_column_text]
 <p style="text-align: center;">Significantly increase referrals by offering the highest standard of imaging insight.</p>
-[/vc_column_text][vc_separator style="blank" padding_top="5"][vc_button title="See Hospital Solutions" target="_blank" href="http://www.cortechslabs.com/hospitals-and-imaging-centers/"][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
+[/vc_column_text][vc_separator style="blank" padding_top="5"][vc_button title="See Hospital Solutions"target="_blank" href="http://www.cortechslabs.com/hospitals-and-imaging-centers/"][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <p style="text-align: center;">Raise attention to those cases where a more thorough workup for curable etiologies may be appropriate.</p>
 [/vc_column_text][vc_separator style="blank" padding_top="5"][vc_button title="See Neurologist Solutions" target="_blank" href="http://www.cortechslabs.com/neurologists-and-other-specialists/"][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <p style="text-align: center;">Discover how CorTechs Labs' products can help you provide your referring physicians with critical insight.</p>
