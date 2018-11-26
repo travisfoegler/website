@@ -3,7 +3,7 @@ ID: 7842
 post_title: >
   CorTechs Labs Announces its Partnership
   with Blackford Analysis
-author: Nicole Broomhead
+author: CorTechs Labs
 post_excerpt: ""
 layout: post
 permalink: >
