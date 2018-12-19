@@ -17,6 +17,18 @@ Presented by CorTechs Labs: Kelly Leyden, MRes, Product Manager
 
 Who should watch: Neurologists, Neuroradiologists, Researchers, Neuroscientists, Psychiatrists, Psychologists, Primary Care Physicians, Nurses
 
-Length: Approx. 45 Minutes[/vc_message][/vc_column][/vc_row][vc_row css=".vc_custom_1465430803593{margin-top: 20px !important;margin-bottom: 15px !important;}"][vc_column][vc_cta h2="Ready to upgrade to 3.0?" add_button="left" btn_title="Register to upgrade" btn_color="sky" btn_link="url:https%3A%2F%2Fdiscover.cortechslabs.com%2Fupgrade-opt-in%2F|||"]Register here to schedule your migration date[/vc_cta][/vc_column][vc_column][vc_column_text]In this 2017 webinar series, Dr. Albright discusses the new features available from our latest software release. She also examines with case studies how the LesionQuant module of NeuroQuant can help physicians quantify brain structure and lesions and as well as help in effectively evaluating disease activity in MS, based on current guidelines and research.
-
-Visit the <a href="http://www.cortechslabs.com/lesionquant/">LesionQuant</a> page to learn more.[/vc_column_text][vc_separator color="#ffffff" style="solid" padding_top="10"][/vc_column][/vc_row]
+Length: Approx. 45 Minutes[/vc_message][/vc_column][/vc_row][vc_row css=".vc_custom_1465430803593{margin-top: 20px !important;margin-bottom: 15px !important;}"][vc_column][vc_cta h2="Ready to upgrade to 3.0?" add_button="left" btn_title="Register to upgrade" btn_color="sky" btn_link="url:https%3A%2F%2Fdiscover.cortechslabs.com%2Fupgrade-opt-in%2F|||"]Register here to schedule your migration date[/vc_cta][/vc_column][vc_column][vc_column_text]<strong>New NeuroQuant 3.0 features include:</strong>
+<ul>
+ 	<li>New change visualization output to compare two scans with a heat map overlay</li>
+ 	<li>Enhanced segmentation accuracy through partnerships with leading manufacturers</li>
+ 	<li>Improved reports with added brain structures and atrophy measures</li>
+ 	<li>Enterprise features for large institutions, such as two-factor authentication</li>
+</ul>
+<strong>New LesionQuant 3.0 features include:</strong>
+<ul>
+ 	<li>Configurable Lesion Detection Settings - allow users to calibrate the algorithm to their specifications</li>
+ 	<li>New Lesion Change - DICOM overlay heat map identifies new, active, resolving, and stable lesion volumes</li>
+ 	<li>Configurable Output - users define which LesionQuant overlays are returned to their PACS system</li>
+ 	<li>Reorganized FLAIR Lesion Reports - Easier to read and interpret comprehensive reports</li>
+</ul>
+[/vc_column_text][vc_separator color="#ffffff" style="solid" padding_top="10"][/vc_column][/vc_row]
