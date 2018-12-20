@@ -11,7 +11,7 @@ post_date: 2018-12-19 14:59:24
 ---
 [vc_row css=".vc_custom_1473975891427{margin-top: 20px !important;}"][vc_column][vc_column_text]
 <h1 style="text-align: center;">3.0 NeuroQuant and LesionQuant Update</h1>
-[/vc_column_text][vc_empty_space height="10px"][/vc_column][/vc_row][vc_row css=".vc_custom_1464738520876{margin-top: 25px !important;}"][vc_column width="2/3"][vc_video link="https://youtu.be/L0HQNz_iUqo" align="center"][vc_separator][/vc_column][vc_column width="1/3"][vc_message message_box_color="grey" icon_fontawesome="fa fa-television"]Webinar Date: December 14, 2018
+[/vc_column_text][vc_empty_space height="10px"][/vc_column][/vc_row][vc_row css=".vc_custom_1464738520876{margin-top: 25px !important;}"][vc_column width="2/3"][vc_video link="https://www.youtube.com/embed/hb_NaPfKRIU" align="center"][vc_separator][/vc_column][vc_column width="1/3"][vc_message message_box_color="grey" icon_fontawesome="fa fa-television"]Webinar Date: December 14, 2018
 
 Presented by CorTechs Labs: Kelly Leyden, MRes, Product Manager
 
